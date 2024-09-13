@@ -1,0 +1,5 @@
+Adaptive monopulse beamforming with jamming suppression dimension selection for planar array
+Robust adaptive beamforming method based on steering vector phase correction and covariance matrix reconstruction
+Covariance Matrix Reconstruction Based on Power Spectral Estimation and Uncertainty Region for Robust Adaptive Beamforming
+Low-Complexity Adaptive Beamforming Algorithm With High Dimensional and Small Samples
+Design of a Digital Array Signal Processing System with Full Array Element
